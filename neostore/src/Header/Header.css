@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #fe3f3f;
+    margin-bottom: 20px;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar form {
+    max-width: 350px !important;
+    width: 100% !important;
+}
